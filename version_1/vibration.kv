@@ -1,0 +1,54 @@
+#:import gps plyer.gps
+#:import XCamera kivy.garden.xcamera.XCamera
+#:import Camera plyer.facades.Camera
+
+<VibrationInterface>:
+    orientation: 'vertical'
+    padding: 5
+    spacing: 5
+    Label:
+        size_hint_y: 0.15
+        #height: sp(40)
+        #text: 'vibrator exists: ' + str(vibrator.exists())
+        text: 'Clique no icone a direita para para tirar foto e enviar coordenadas'
+        text_size: self.size
+        halign: 'center'
+        valign: 'middle'
+
+
+    XCamera:
+        id: xcamera     
+        on_picture_taken: root.picture_taken(*args)
+
+        
+#    BoxLayout:
+#        size_hint_y: 0.85
+#        orientation: 'horizontal'
+#        size_hint: 1, None
+#        height: sp(50)
+#        Button:
+#            text: 'Set landscape'
+#            on_release: xcamera.force_landscape()
+#        Button:
+#            text: 'Restore orientation'
+#            on_release: xcamera.restore_orientation()
+
+    #Button:
+    #    text: 'testa envio de latitude e longitude'
+    #    on_release: root.current_location2()
+
+
+
+#    Button:
+#        text: 'vibrate 0.1s'
+#        on_release: vibrator.vibrate(0.1)
+#    Button:
+#        text: 'cancel vibration'
+#        on_release: vibrator.cancel()
+#    TextInput:
+#        id: ti
+#        text: '0.5,0.5,1,2,0.1,0.1,0.1,0.1,0.1,0.1'
+#    Button:
+#        text: 'vibrate pattern'
+#        on_release:
+#            vibrator.pattern([float(n) for n in ti.text.split(',')])

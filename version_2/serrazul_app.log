@@ -1,0 +1,216 @@
+INFO:root:o programa server_side.py foi iniciado -- 26/05/18 15:19:52
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:20:08] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:20:08] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:31:54] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:31:54] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:04] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:04] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:34] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:34] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:51] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [26/May/2018 15:33:51] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 08:01:25
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 08:03:29] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 08:03:29] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 08:04:53
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 08:05:10] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 08:05:10] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 11:23:23
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:23:29] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:23:29] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 11:27:08
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:27:43] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:27:43] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 11:49:00
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:49:06] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:49:06] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 11:49:16
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:49:31] "POST / HTTP/1.1" 200 -
+DEBUG:Fiona:GDAL_DATA: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/gdal_data
+DEBUG:Fiona:PROJ_LIB: /home/daniel/system-programs/miniconda2/envs/serrazul/lib/python2.7/site-packages/fiona/proj_data
+DEBUG:Fiona:Userencoding: None
+DEBUG:Fiona:Got coordinate system
+DEBUG:Fiona:Index: 0
+DEBUG:Fiona:Got coordinate system
+DEBUG:fiona.collection:Flushed buffer
+DEBUG:fiona.collection:Stopped session
+INFO:werkzeug:192.168.0.104 - - [29/May/2018 11:49:31] "POST / HTTP/1.1" 200 -
+INFO:root:o programa server_side.py foi iniciado -- 29/05/18 11:57:45
+INFO:werkzeug: * Running on http://0.0.0.0:6000/ (Press CTRL+C to quit)
+INFO:root:o programa server_side.py foi iniciado -- 31/07/18 16:13:33
+INFO:werkzeug: * Running on http://0.0.0.0:6003/ (Press CTRL+C to quit)
